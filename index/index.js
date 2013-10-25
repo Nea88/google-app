@@ -1,0 +1,1 @@
+/home/nea/Projects/airomo/appcurl-bem/pages-desktop/index/index.en.js
